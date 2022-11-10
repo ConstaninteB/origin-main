@@ -1,0 +1,15 @@
+D:\GB\C# Практика\exemple001_helloconsole\bin\Debug\net6.0\exemple001_helloconsole.exe
+D:\GB\C# Практика\exemple001_helloconsole\bin\Debug\net6.0\exemple001_helloconsole.deps.json
+D:\GB\C# Практика\exemple001_helloconsole\bin\Debug\net6.0\exemple001_helloconsole.runtimeconfig.json
+D:\GB\C# Практика\exemple001_helloconsole\bin\Debug\net6.0\exemple001_helloconsole.dll
+D:\GB\C# Практика\exemple001_helloconsole\bin\Debug\net6.0\exemple001_helloconsole.pdb
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.csproj.AssemblyReference.cache
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.AssemblyInfoInputs.cache
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.AssemblyInfo.cs
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.csproj.CoreCompileInputs.cache
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.dll
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\refint\exemple001_helloconsole.dll
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.pdb
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\exemple001_helloconsole.genruntimeconfig.cache
+D:\GB\C# Практика\exemple001_helloconsole\obj\Debug\net6.0\ref\exemple001_helloconsole.dll
